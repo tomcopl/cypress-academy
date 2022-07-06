@@ -1,0 +1,23 @@
+{
+  "name": "cypress-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowde-academy/cypress-academy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowde-academy/cypress-academy/issues"
+  },
+  "homepage": "https://github.com/knowde-academy/cypress-academy#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
