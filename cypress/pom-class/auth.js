@@ -6,7 +6,6 @@ export class Auth {
         return this;
     }
 
-
     fillUsername(string) {
         this.#getUsername().type(string);
         return this;
